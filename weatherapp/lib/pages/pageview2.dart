@@ -43,8 +43,8 @@ class PageView2 extends StatelessWidget {
                       fontSize: 13,
                       ),),
                   Container(
-                    height: 300,
-                    width: 210,
+                    height: 340,
+                    width: 230,
                     child: Card(
                       color: Colors.white.withOpacity(0.5),
                       child: Center(child: Image.asset(imageurl)),

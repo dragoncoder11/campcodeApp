@@ -12,7 +12,7 @@ import '../widgets/custombutton.dart';
           decoration: BoxDecoration(
               image: DecorationImage(
                   image: AssetImage(
-                    'images/z4.jpg',
+                    'images/n4.jpg',
                   ),
                   fit: BoxFit.cover)),
         ),
