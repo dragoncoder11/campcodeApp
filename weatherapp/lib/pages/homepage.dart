@@ -18,12 +18,9 @@ class ForgetPassword extends StatelessWidget {
             decoration: InputDecoration(
               prefixIcon: Icon(Icons.email),
               hintText: 'enter your email here',
-              enabledBorder: OutlineInputBorder(borderSide:BorderSide(color: Colors.black) ),
-              
-
 
             ),
-
+cursorColor: Colors.black,
            )),
 
           

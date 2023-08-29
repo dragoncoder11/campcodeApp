@@ -19,7 +19,7 @@ class CreateNewPassword extends StatelessWidget {
          
           CustomField(hint: '', icon: null,),
           SizedBox(height: 30,),
-          CustomField(hint: '', icon: null,),
+          CustomField(hint: '', ),
         ],),
       ),
 
